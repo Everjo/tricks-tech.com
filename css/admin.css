@@ -1,0 +1,147 @@
+*{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+
+
+    padding: 1%;
+    margin: 0 auto;
+   
+    
+}
+.text-center{
+
+    text-align: center;
+}
+.clear-fix{
+
+    float: none;
+    clear: both;
+}
+
+.tbl-full{
+
+    width: 100%;
+    
+}
+.tbl-30{
+
+    width: 30%;
+}
+table tr th{
+
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+
+    padding: 1%;
+}
+.btn-primary{
+    background-color:yellowgreen;
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-primary:hover{
+
+    background-color: blue;
+}
+.btn-secondary{
+    background-color:lightseagreen;
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+
+    background-color:green;
+}
+.btn-danger{
+    background-color:tomato;
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger:hover{
+
+    background-color:red;
+}
+.success{
+
+
+    color: green;
+}
+.error{
+
+    color:red;
+}
+/*Css for menu */
+.menu{
+
+    border-bottom:1px solid black ;
+}
+.menu ul{
+
+    list-style-type: none;
+   
+}
+.menu ul li a{
+
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+.menu ul li a:hover{
+
+    color:red;
+}
+.menu ul li{
+    display:inline;
+    padding: 1%;
+}
+
+/*Css for main-content */
+.main-content{
+    padding: 2%;
+background-color: whitesmoke;
+background-image: url(../images/droplet.jpg);
+    
+}
+.col-4{
+    float: left;
+margin: 1%;
+padding: 2%;
+    width: 15%; 
+    background-color: aqua;
+}
+
+
+
+/* css for Login*/
+.login{
+
+    border: 1px solid black;
+    width: 45%;
+    margin: 10% auto;
+    padding: 2%;
+    background-image: url(../images/Isuzu.jpg);
+}
+.nav1{
+    background-image: url(../images/water.jpg);
+  
+}
+
+.menu1{
+    line-height: 110px;
+        
+    background-image: url(../images/road-3.jpg);
+    }
+    .text-right1{
+        text-align: right;
+    }
